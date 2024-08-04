@@ -1,2 +1,10 @@
-# exerc-cios_python-
-exercícios_python de um curso do básico até avançado. Com intuito de exercitar e melhorar as soluções, deixa-lás kd vez mais rápidas e otimizadas, fáceis de entender e diretas.
+# Exercícios python 
+ - Aqui você vai ter exercícios divididos por classes:
+   - **Básico**
+   - **Intermediário**
+   - **Difícil**
+ - Eles são dividos em enuciados e a suas soluções
+
+O acesso as soluções são livres, pode editar, pode alterar
+Me avise se caso tiver sugestões no código e organização dos arquivos 
+Para fácil acesso. Muito obrigado por entrat nesse repositório!
