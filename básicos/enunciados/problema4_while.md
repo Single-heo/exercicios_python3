@@ -15,16 +15,16 @@ na palavra secreta.
 Faça a contagem de tentativas do seu
 usuário.
 """
-Ex de output:
+`Ex de output:
 **palavra secreta = perfume**
 Digite uma letra: 
 Palavra formada: `*******` => quando o usuário não digitar nada
 Digite uma letra: p 
-Palavra formada: `p******` se ele digitar apenas uma letra
+Palavra formada: p****** se ele digitar apenas uma letra
 Digite uma letra: pe => aqui se ele digitar mais de uma letra 
 Digite apenas uma letra.
 Digite uma letra: e
-Palavra formada: `pe****e
+Palavra formada: pe****e
 Digite uma letra: r
 Palavra formada: per***e
 Digite uma letra: f
